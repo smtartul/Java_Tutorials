@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "Tasks/Task6",
         "Tasks/Task5",
         "Tasks/Task4",
         "Tasks/Task3",
         "Tasks/Task2",
         "Tasks/Task1",
-        "Tasks/Task6"
+        "Tasks/Task7"
     ]
 }
