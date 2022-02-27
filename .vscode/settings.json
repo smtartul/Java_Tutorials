@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "Tasks/Task2",
         "Tasks/Task1",
-        "Tasks/Task2"
+        "Tasks/Task3"
     ]
 }
