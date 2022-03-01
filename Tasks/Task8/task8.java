@@ -31,5 +31,6 @@ public class task8 {
         } else {
             System.out.println("Bilgileriniz yanlış!");
         }
+        input.close();
     }
 }
