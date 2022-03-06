@@ -44,6 +44,9 @@ bower_components
 build/Release
 
 # Dependency directories
+.idea/
+out/
+.vscode/
 node_modules/
 Tutorials/
 jspm_packages/
