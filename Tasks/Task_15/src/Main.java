@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Main {
@@ -19,6 +21,7 @@ public class Main {
         String result=isPalindrom(number)?"Palindrom":"Palindrom deqil";
         System.out.println(result);
 
+        ArrayList<String> dic=new ArrayList<>();
 
     }
 }
